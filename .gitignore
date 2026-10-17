@@ -1,0 +1,12 @@
+# local data — never published
+projects/*
+!projects/.gitkeep
+vanoleaf_config.json
+logs/
+venv/
+.venv*/
+.vanoleaf_mac_build/
+__pycache__/
+*.pyc
+.DS_Store
+*.before_*
