@@ -1,6 +1,6 @@
 # VanoLeaf — a local LaTeX editor with no compile timeout
 
-![license](https://img.shields.io/badge/license-MIT-green) ![python](https://img.shields.io/badge/python-3.9%2B-blue) ![platforms](https://img.shields.io/badge/macOS%20%7C%20Windows%20%7C%20Linux-supported-8a6d3b)
+[![Checks](https://github.com/yassine-aitmohamed/VanoLeaf-LaTeX-Editor/actions/workflows/checks.yml/badge.svg)](https://github.com/yassine-aitmohamed/VanoLeaf-LaTeX-Editor/actions/workflows/checks.yml) [![Release](https://img.shields.io/github/v/release/yassine-aitmohamed/VanoLeaf-LaTeX-Editor?color=4c6ef5)](https://github.com/yassine-aitmohamed/VanoLeaf-LaTeX-Editor/releases/latest) [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE) ![Python](https://img.shields.io/badge/python-3.9%2B-blue) ![Platforms](https://img.shields.io/badge/macOS%20%7C%20Windows%20%7C%20Linux-supported-555)
 
 **VanoLeaf** gives you the Overleaf way of working — file tree, source on the left, PDF on the right, click-to-jump between them — but everything runs **on your own computer**, with your own TeX installation. No account, no upload, no queue, and **no limit on how long a compile may take**.
 
@@ -88,6 +88,13 @@ Issues and pull requests are welcome — bug reports with the compile log are th
 ## En français
 
 VanoLeaf est un éditeur LaTeX **local** dans l'esprit d'Overleaf : arborescence, code à gauche, PDF à droite, SyncTeX dans les deux sens, autocomplétion, historique des versions, import de projets Overleaf. Tout tourne sur votre ordinateur avec votre propre distribution TeX : **pas de limite de temps de compilation**, pas de compte, pas d'envoi de vos travaux non publiés, et il fonctionne hors ligne. Installation : `Start VanoLeaf.command` sur Mac, `INSTALL.bat` sur Windows.
+
+## Author
+
+VanoLeaf is written and maintained by **Yassine Ait Mohamed**, PhD student in mathematics at the Université de Sherbrooke. It started as a tool for my own research and is shared in the hope that it is useful to others.
+
+- Website: [yassine-aitmohamed.github.io](https://yassine-aitmohamed.github.io)
+- Bug reports and ideas: [open an issue](https://github.com/yassine-aitmohamed/VanoLeaf-LaTeX-Editor/issues)
 
 ## License
 
